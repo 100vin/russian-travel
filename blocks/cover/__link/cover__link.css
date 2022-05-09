@@ -1,0 +1,17 @@
+.cover__link {
+  grid-column: 1/2;
+  grid-row: 1/2;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: inherit;
+  text-decoration: none;
+  background-color: rgba(42, 44, 47, .3);
+  transition: background-color .5s ease;
+}
+
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, .8);
+}

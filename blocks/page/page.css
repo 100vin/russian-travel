@@ -1,22 +1,10 @@
 .page {
-  max-width: 1184px;
+  max-width: 1280px;
   min-width: 320px;
   margin: 0 auto;
-  /* text-align: center; */
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* align-items: center; */
-  /* padding: 28px 0 24px; */
+  padding: 0;
   background-color: #2a2c2f;
-  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  font-family: Inter, Arial, Helvetica, sans-serif;
   font-weight: 400;
   color: #fff;
-}
-
-.header {
-  /* max-width: 1184px; */
-  margin: 0 auto 56px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
